@@ -1,5 +1,5 @@
 """
-projekt_2.py: druhý projekt do Engeto Online Python Akademie
+main.py: druhý projekt do Engeto Online Python Akademie
 author: Michal Henyš
 email: henysmichal87@gmail.com
 discord: Michal Henys
